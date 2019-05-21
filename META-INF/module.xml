@@ -1,0 +1,2 @@
+<?xml version='1.0'?>
+<module name='themeHoneywell-ux' bajaVersion='0' vendor='Honeywell' vendorVersion='1.0.6' description='' preferredSymbol='thh' nre='true' installable='true' autoload='true' buildMillis='1533552984035' buildHost='IE3BLT710HG32' moduleName='themeHoneywell' runtimeProfile='ux'><dependencies><dependency name='baja' vendor='Tridium' vendorVersion='4.0'/></dependencies><dirs/><defs><def name='themeName' value='themeHoneywell'></def></defs></module>
