@@ -5,17 +5,17 @@
 @font-face {
   font-family: 'SourceSansPro';
   font-weight: normal;
-  src: local('Source Sans Pro'), local('SourceSansPro'), local('Source Sans Pro Regular'), local('SourceSansPro-Regular'), url('/module/themeHoneywell/fonts/SourceSansPro-Regular.otf.woff') format('woff'), url('/module/themeHoneywell/fonts/SourceSansPro-Regular.ttf') format('truetype');
+  src: local('Source Sans Pro'), local('SourceSansPro'), local('Source Sans Pro Regular'), local('SourceSansPro-Regular'), url('/module/ECSTheme/fonts/SourceSansPro-Regular.otf.woff') format('woff'), url('/module/ECSTheme/fonts/SourceSansPro-Regular.ttf') format('truetype');
 }
 @font-face {
   font-family: 'SourceSansPro';
   font-weight: bold;
-  src: local('Source Sans Pro Semibold'), local('SourceSansPro-Semibold'), url('/module/themeHoneywell/fonts/SourceSansPro-Semibold.otf.woff') format('woff'), url('/module/themeHoneywell/fonts/SourceSansPro-Semibold.ttf') format('truetype');
+  src: local('Source Sans Pro Semibold'), local('SourceSansPro-Semibold'), url('/module/ECSTheme/fonts/SourceSansPro-Semibold.otf.woff') format('woff'), url('/module/ECSTheme/fonts/SourceSansPro-Semibold.ttf') format('truetype');
 }
 @font-face {
   font-family: 'SourceSansPro';
   font-weight: 100;
-  src: local('Source Sans Pro Light'), local('SourceSansPro-Light'), url('/module/themeHoneywell/fonts/SourceSansPro-Light.otf.woff') format('woff'), url('/module/themeHoneywell/fonts/SourceSansPro-Light.ttf') format('truetype');
+  src: local('Source Sans Pro Light'), local('SourceSansPro-Light'), url('/module/ECSTheme/fonts/SourceSansPro-Light.otf.woff') format('woff'), url('/module/ECSTheme/fonts/SourceSansPro-Light.ttf') format('truetype');
 }
 /*
  Theme Rules for use with jquery.ContextMenu
@@ -783,4 +783,4 @@ form.hx > div > .alarmconsole-background {
     border-radius: 0.5em 0.5em 0.5em 0.5em;
   }
 }
-/*# sourceMappingURL=/module/themeHoneywell/less/maps/ux.map */
+/*# sourceMappingURL=/module/ECSTheme/less/maps/ux.map */

@@ -1,11 +1,11 @@
 {
-  "name": "themeHoneywell-ux",
+  "name": "ECSTheme",
   "description": "",
   "version": "1.0.4",
-  "homepage": "http://www.honeywell.com",
+  "homepage": "http://www.ecscontrols.com",
   "author": {
-    "name": "Honeywell",
-    "email": "webssquad@honeywell.com"
+    "name": "ECS",
+    "email": "colematolka@yahoo.com"
   },
   "bugs": {
     "url": ""

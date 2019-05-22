@@ -2,20 +2,20 @@
 @font-face {
   font-family: 'SourceSansPro';
   font-weight: normal;
-  src: url('/module/themeHoneywell/fonts/SourceSansPro-Regular.eot');
-  src: local('Source Sans Pro'), local('SourceSansPro'), local('Source Sans Pro Regular'), local('SourceSansPro-Regular'), url('/module/themeHoneywell/fonts/SourceSansPro-Regular.otf.woff') format('woff'), url('/module/themeHoneywell/fonts/SourceSansPro-Regular.ttf') format('truetype'), url('/module/themeHoneywell/fonts/SourceSansPro-Regular.svg') format('svg');
+  src: url('/module/ECSTheme/fonts/SourceSansPro-Regular.eot');
+  src: local('Source Sans Pro'), local('SourceSansPro'), local('Source Sans Pro Regular'), local('SourceSansPro-Regular'), url('/module/ECSTheme/fonts/SourceSansPro-Regular.otf.woff') format('woff'), url('/module/ECSTheme/fonts/SourceSansPro-Regular.ttf') format('truetype'), url('/module/ECSTheme/fonts/SourceSansPro-Regular.svg') format('svg');
 }
 @font-face {
   font-family: 'SourceSansPro';
   font-weight: bold;
-  src: url('/module/themeHoneywell/fonts/SourceSansPro-Semibold.eot');
-  src: local('Source Sans Pro Semibold'), local('SourceSansPro-Semibold'), url('/module/themeHoneywell/fonts/SourceSansPro-Semibold.otf.woff') format('woff'), url('/module/themeHoneywell/fonts/SourceSansPro-Semibold.ttf') format('truetype'), url('/module/themeHoneywell/fonts/SourceSansPro-Semibold.svg') format('svg');
+  src: url('/module/ECSTheme/fonts/SourceSansPro-Semibold.eot');
+  src: local('Source Sans Pro Semibold'), local('SourceSansPro-Semibold'), url('/module/ECSTheme/fonts/SourceSansPro-Semibold.otf.woff') format('woff'), url('/module/ECSTheme/fonts/SourceSansPro-Semibold.ttf') format('truetype'), url('/module/ECSTheme/fonts/SourceSansPro-Semibold.svg') format('svg');
 }
 @font-face {
   font-family: 'SourceSansPro';
   font-weight: 100;
-  src: url('/module/themeHoneywell/fonts/SourceSansPro-Light.eot');
-  src: local('Source Sans Pro Light'), local('SourceSansPro-Light'), url('/module/themeHoneywell/fonts/SourceSansPro-Light.otf.woff') format('woff'), url('/module/themeHoneywell/fonts/SourceSansPro-Light.ttf') format('truetype'), url('/module/themeHoneywell/fonts/SourceSansPro-Light.svg') format('svg');
+  src: url('/module/ECSTheme/fonts/SourceSansPro-Light.eot');
+  src: local('Source Sans Pro Light'), local('SourceSansPro-Light'), url('/module/ECSTheme/fonts/SourceSansPro-Light.otf.woff') format('woff'), url('/module/ECSTheme/fonts/SourceSansPro-Light.ttf') format('truetype'), url('/module/ECSTheme/fonts/SourceSansPro-Light.svg') format('svg');
 }
 /*
  Theme Rules for use with jquery.ContextMenu
@@ -293,4 +293,4 @@ div.schedule-HxScheduler-dayEvent {
   min-height: 11px;
   padding: 0;
 }
-/*# sourceMappingURL=/module/themeHoneywell/less/maps/hx.map */
+/*# sourceMappingURL=/module/ECSTheme/less/maps/hx.map */
